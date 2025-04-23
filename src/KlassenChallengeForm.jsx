@@ -1,0 +1,1 @@
+export default function KlassenChallengeForm() { return <div>Buchungsformular</div>; }

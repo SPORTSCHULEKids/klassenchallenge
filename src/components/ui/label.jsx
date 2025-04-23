@@ -1,0 +1,1 @@
+export const Label = (props) => <label {...props} />;
