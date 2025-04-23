@@ -1,1 +1,1 @@
-export default function KlassenChallengeForm() { return <div>Buchungsformular</div>; }
+PLACEHOLDER_CANVAS_CODE
